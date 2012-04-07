@@ -50,11 +50,8 @@ namespace Guys
             }
             else
             {
-                MessageBox.Show(amount + "isn't an amount I'll take", Name + " says...");
+                MessageBox.Show(amount + " isn't an amount I'll take", Name + " says...");
                 return 0;
-            }
-            {
-                
             }
         }
     }
