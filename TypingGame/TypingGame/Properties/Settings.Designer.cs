@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MileageCalculator.Properties
+namespace TypingGame.Properties
 {
 
 
